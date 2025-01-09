@@ -8,6 +8,7 @@ I am a dedicated Testing Engineer with over 2.5 years of experience in manual an
 
 Projects I've Worked On
 1. Canva
+   
 Role: Software Test Engineer
 
 Website: www.canva.com
@@ -15,6 +16,7 @@ Website: www.canva.com
 Description: Tested Canva’s web-based and desktop applications as well as its iOS and Android mobile applications, ensuring a seamless user experience and identifying critical defects.
 
 2. Compliance
+   
 Role: Software Test Engineer
 
 Website: compliancedev.datagainservices.com
