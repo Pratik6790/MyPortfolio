@@ -1,4 +1,4 @@
-Portfolio of Pratik Mane
+Portfolio of Pratik Mane.
 Experienced Software Tester
 
 About Me
